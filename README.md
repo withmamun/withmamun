@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/withmamun7" target="blank"><img src="https://img.shields.io/twitter/follow/withmamun7?logo=twitter&style=for-the-badge" alt="withmamun7" /></a> </p>
 
-- 🔭 I’m currently working on **G-DOGZ**
+- 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **React, Python.**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **javascript, react, python.**
+- 💬 Ask me about **MERN**
 
-- 📫 How to reach me **developer@withmamun.com**
+- 📫 How to reach me **mamunahammedco59@gmail.com**
 
 - 📄 Know about my experiences [https://www.withmamun.com](https://www.withmamun.com)
 
